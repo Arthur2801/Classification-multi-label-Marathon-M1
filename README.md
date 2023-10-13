@@ -1,1 +1,1 @@
-# Classification multi label avec augmentation de données via API ChatGPT
+# Classification multi-label avec augmentation de données via API ChatGPT
